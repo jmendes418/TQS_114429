@@ -1,9 +1,11 @@
 package tqs;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class StocksPortfolio {
     public StocksPortfolio(IStockMarketService stockMarket) {
+        this.stocks = new ArrayList<Stock>();
         this.stockMarket = stockMarket;
     }
 

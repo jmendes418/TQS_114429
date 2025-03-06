@@ -2,7 +2,15 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/lab1/lab1_1/TqsStack/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/lab2/lab2_1/StockPortfolio/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/lab2/lab2_1/StockPortfolio/target" />
+      <excludeFolder url="file://$MODULE_DIR$/lab3/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/lab3/lab3_1/gs-employee-mngr/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/lab3/lab3_1/gs-employee-mngr/target" />
+      <excludeFolder url="file://$MODULE_DIR$/lab3/lab3_2/cars_containers/.idea" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
